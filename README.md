@@ -1,4 +1,4 @@
-#redux-thunk-demo
+# redux-thunk-demo
 
 ## Table of Contents
 
